@@ -1,2 +1,2 @@
 # aseprite_file
-Tempat simpan file aseprite temporary
+Tempat simpan proyek file aseprite temporary
